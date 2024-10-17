@@ -1,0 +1,16 @@
+br\go\senac\ads4\Provan1Application.class
+br\go\senac\ads4\model\ItemPedidoModel.class
+br\go\senac\ads4\repository\ProdutoRepository.class
+br\go\senac\ads4\service\PedidoService.class
+br\go\senac\ads4\repository\ItemPedidoRepository.class
+br\go\senac\ads4\service\ProdutoService.class
+br\go\senac\ads4\model\ProdutoModel.class
+br\go\senac\ads4\resource\ItemPedidoResource.class
+br\go\senac\ads4\dto\ItemPedidoDto.class
+br\go\senac\ads4\dto\PedidoDto.class
+br\go\senac\ads4\dto\ProdutoDto.class
+br\go\senac\ads4\service\ItemPedidoService.class
+br\go\senac\ads4\resource\ProdutoResource.class
+br\go\senac\ads4\model\PedidoModel.class
+br\go\senac\ads4\repository\PedidoRepository.class
+br\go\senac\ads4\resource\PedidoResource.class
